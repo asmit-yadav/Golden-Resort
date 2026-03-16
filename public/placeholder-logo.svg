@@ -1,0 +1,14 @@
+<svg width="350" height="50" viewBox="0 0 350 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .logo-text { font-family: 'Garamond', 'Times New Roman', serif; font-size: 20px; font-weight: bold; fill: white; letter-spacing: 1.5px; }
+        .tagline-text { font-family: 'Garamond', 'Times New Roman', serif; font-size: 9px; fill: #E5E7EB; letter-spacing: 2px; }
+    </style>
+    <g transform="translate(5, 5)">
+        <circle cx="20" cy="20" r="18" stroke="white" stroke-width="1.5"/>
+        <text x="20" y="27" text-anchor="middle" font-family="'Garamond', serif" font-size="16" font-weight="bold" fill="white">V</text>
+    </g>
+    <g transform="translate(60, 0)">
+        <text x="0" y="25" class="logo-text">VEDIKA EVENT SOLUTION</text>
+        <text x="0" y="40" class="tagline-text">MAKING EVENTS COME ALIVE</text>
+    </g>
+</svg>
